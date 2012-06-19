@@ -61,21 +61,21 @@ This page was forked with permission from [http://liveingreatness.com/][20]
 
 [Creative Commons Attribution-Share Alike 3.0 License][21]
 
-[1]: http://liveingreatness.com/shared-vision/
-[2]: http://liveingreatness.com/core-protocols/
-[3]: http://liveingreatness.com/core-protocols/the-core-commitments/
-[4]: http://liveingreatness.com/core-protocols/pass-unpass/
-[5]: http://liveingreatness.com/core-protocols/check-in/
-[6]: http://liveingreatness.com/core-protocols/check-out/
-[7]: http://liveingreatness.com/core-protocols/ask-for-help/
-[8]: http://liveingreatness.com/core-protocols/protocol-check/
-[9]: http://liveingreatness.com/core-protocols/intention-check/
-[10]: http://liveingreatness.com/core-protocols/decider/
-[11]: http://liveingreatness.com/core-protocols/resolution/
-[12]: http://liveingreatness.com/core-protocols/perfection-game/
-[13]: http://liveingreatness.com/core-protocols/personal-alignment/
-[14]: http://liveingreatness.com/core-protocols/investigate/
-[15]: http://liveingreatness.com/additional-protocols/meet/
+[1]: shared-vision
+[2]: core-protocols
+[3]: core-protocols-the-core-commitments
+[4]: core-protocols-pass-unpass
+[5]: core-protocols-check-in
+[6]: core-protocols-check-out
+[7]: core-protocols-ask-for-help
+[8]: core-protocols-protocol-check
+[9]: core-protocols-intention-check
+[10]: core-protocols-decider
+[11]: core-protocols-resolution
+[12]: core-protocols-perfection-game
+[13]: core-protocols-personal-alignment
+[14]: core-protocols-investigate
+[15]: additional-protocols-meet
 [16]: http://liveingreatness.com/additional-protocols/listen/
 [17]: http://liveingreatness.com/additional-protocols/personal-alignment-express/
 [18]: http://liveingreatness.com/additional-protocols/web-of-commitment-express/
