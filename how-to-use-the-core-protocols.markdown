@@ -76,21 +76,21 @@ This page was forked with permission from [http://liveingreatness.com/how-to-use
 [Creative Commons Attribution-Share Alike 3.0 License][22]
 
 [1]: http://en.wikipedia.org/wiki/Booting
-[2]: http://liveingreatness.com/core-protocols/the-core-commitments/
-[3]: http://liveingreatness.com/core-protocols/check-out/
-[4]: http://liveingreatness.com/core-protocols/check-in/
+[2]: core-protocols-the-core-commitments
+[3]: core-protocols-check-out
+[4]: core-protocols-check-in
 [5]: core-protocols-and-your-team
-[6]: http://liveingreatness.com/core-protocols/
-[7]: http://liveingreatness.com/core-protocols/pass-unpass/
-[8]: http://liveingreatness.com/core-protocols/ask-for-help/
-[9]: http://liveingreatness.com/core-protocols/protocol-check/
-[10]: http://liveingreatness.com/core-protocols/intention-check/
-[11]: http://liveingreatness.com/core-protocols/decider/
-[12]: http://liveingreatness.com/core-protocols/resolution/
-[13]: http://liveingreatness.com/core-protocols/perfection-game/
-[14]: http://liveingreatness.com/core-protocols/personal-alignment/
-[15]: http://liveingreatness.com/core-protocols/investigate/
-[16]: http://liveingreatness.com/additional-protocols/meet/
+[6]: core-protocols
+[7]: core-protocols-pass-unpass
+[8]: core-protocols-ask-for-help
+[9]: core-protocols-protocol-check
+[10]: core-protocols-intention-check
+[11]: core-protocols-decider
+[12]: core-protocols-resolution
+[13]: core-protocols-perfection-game
+[14]: core-protocols-personal-alignment
+[15]: core-protocols-investigate
+[16]: additional-protocols-meet
 [17]: http://liveingreatness.com/additional-protocols/listen/
 [18]: http://liveingreatness.com/additional-protocols/personal-alignment-express/
 [19]: http://liveingreatness.com/additional-protocols/web-of-commitment-express/
