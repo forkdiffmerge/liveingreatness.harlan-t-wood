@@ -75,22 +75,22 @@ This page was forked with permission from [http://liveingreatness.com/core-proto
 
 [Creative Commons Attribution-Share Alike 3.0 License][22]
 
-[1]: http://liveingreatness.com/core-protocols/pass-unpass/
-[2]: http://liveingreatness.com/core-protocols/check-out/
-[3]: http://liveingreatness.com/core-protocols/check-in/
-[4]: http://liveingreatness.com/core-protocols/ask-for-help/
-[5]: http://liveingreatness.com/core-protocols/perfection-game/
-[6]: http://liveingreatness.com/core-protocols/decider/
-[7]: http://liveingreatness.com/core-protocols/resolution/
+[1]: core-protocols-pass-unpass
+[2]: core-protocols-check-out
+[3]: core-protocols-check-in
+[4]: core-protocols-ask-for-help
+[5]: core-protocols-perfection-game
+[6]: core-protocols-decider
+[7]: core-protocols-resolution
 [8]: http://liveingreatness.com/resources/
-[9]: http://liveingreatness.com/boot-camp-immersive-training/
-[10]: http://liveingreatness.com/core-protocols/
-[11]: http://liveingreatness.com/core-protocols/the-core-commitments/
-[12]: http://liveingreatness.com/core-protocols/protocol-check/
-[13]: http://liveingreatness.com/core-protocols/intention-check/
-[14]: http://liveingreatness.com/core-protocols/personal-alignment/
-[15]: http://liveingreatness.com/core-protocols/investigate/
-[16]: http://liveingreatness.com/additional-protocols/meet/
+[9]: boot-camp-immersive-training
+[10]: core-protocols
+[11]: core-protocols-the-core-commitments
+[12]: core-protocols-protocol-check
+[13]: core-protocols-intention-check
+[14]: core-protocols-personal-alignment
+[15]: core-protocols-investigate
+[16]: additional-protocols-meet
 [17]: http://liveingreatness.com/additional-protocols/listen/
 [18]: http://liveingreatness.com/additional-protocols/personal-alignment-express/
 [19]: http://liveingreatness.com/additional-protocols/web-of-commitment-express/
