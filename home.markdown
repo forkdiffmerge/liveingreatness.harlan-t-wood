@@ -1,5 +1,4 @@
 
-
 ## Your team can be ten times better
 
 What does that mean?
