@@ -1,4 +1,3 @@
-
 ## Your team can be ten times better
 
 What does that mean?
@@ -51,14 +50,6 @@ Next: [Creating Great Teams][1]
 * [Personal Alignment Express][17]
 * [Web of Commitment Express][18]
 * [Personal Commitments form][19]
-
-----
-
-This page was forked with permission from [http://liveingreatness.com/][20]
-
-----
-
-[Creative Commons Attribution-Share Alike 3.0 License][21]
 
 [1]: shared-vision
 [2]: core-protocols
